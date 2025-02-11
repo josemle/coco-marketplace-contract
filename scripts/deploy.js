@@ -13,8 +13,6 @@ const saveFiles = async (fileName, data) => {
     console.log("export file", fileName);
 };
 
-// SaveAbis Function
-
 const saveAbis = async () => {
     const ERC20ABI = artifacts.readArtifactSync("ERC20").abi;
     const NFTABI = artifacts.readArtifactSync("NFT").abi;

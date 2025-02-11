@@ -1,10 +1,11 @@
-node_modules
+node_modules
+artifacts
+build
+
+#Hardhat files
+cache
+artifacts
+.vscode
+package-lock.json
+config.bat
 .env
-artifacts
-build
-
-#Hardhat files
-cache
-artifacts
-.vscode
-package-lock.json

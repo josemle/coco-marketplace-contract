@@ -1,4 +1,5 @@
-module.exports = [
-    "test1 NFT",
-    "t1NFT"
+module.exports = [
+    "test1 NFT",
+    "t1NFT"
 ];
+
