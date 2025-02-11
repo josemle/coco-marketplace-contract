@@ -1,6 +1,8 @@
 const fs = require("fs");
 // const metadata_hashs = require("../resources/metadata_hash.json");
 
+// SaveFiles Function
+
 const saveFiles = async (fileName, data) => {
     const fs = require("fs");
     const contractsDir = "./build/";
